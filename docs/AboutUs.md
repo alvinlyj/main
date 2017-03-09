@@ -7,7 +7,7 @@ We are a team based in the [School of Computing, National University of Singapor
 #### [Alvin Loh](http://github.com/alvinlyj) <br>
 <img src="images/AlvinLoh.png" width="150"><br>
 **Role:** Team Leader <br>
-**Responsibilities:** Implementation & Documentation
+**Responsibilities:** Implementation & Documentation<br>
 **Component:** UI
 
 -----
@@ -15,7 +15,7 @@ We are a team based in the [School of Computing, National University of Singapor
 #### [Joel Lee](http://github.com/joelleejh)
 <img src="images/JoelLee.png" width="150"><br>
 **Role:** Developer <br>
-**Responsibilities:** Testing
+**Responsibilities:** Testing<br>
 **Component:** Logic
 
 -----
@@ -23,7 +23,7 @@ We are a team based in the [School of Computing, National University of Singapor
 #### [Koh Jun Wei](http://github.com/KohJunWei)
 <img src="images/KohJunWei.png" width="150"><br>
 **Role:** Developer <br>
-**Responsibilities:** Code Quality
+**Responsibilities:** Code Quality<br>
 **Component:** Model
 
 -----

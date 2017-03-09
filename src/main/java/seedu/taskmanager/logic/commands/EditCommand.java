@@ -149,21 +149,21 @@ public class EditCommand extends Command {
         public Optional<Date> getDate() {
             return date;
         }
-        
+
 /*        public void setEndTime(Optional<EndTime> endtime) {
         	assert endtime != null;
         	this.endtime = endtime;
         }
-        
+
         public Optional<EndTime> getEndTime() {
         	return endtime;
         }
-        
+
         public void setDeadline(Optional<Deadline> deadline) {
         	assert deadline != null;
         	this.deadline = deadline;
         }
-        
+
         public Optional<Deadline> getDeadline() {
         	return deadline;
         }

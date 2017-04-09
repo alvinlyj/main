@@ -362,10 +362,6 @@ public class UpdateCommandParser {
 
     private boolean isValidTimePrefixesArgLen(Optional<String> prefixInput) {
         String[] splited = prefixInput.get().trim().split("\\s+");
-        if (splited.length > 2) {
-            return false;
-        } else {
-            return true;
-        }
+        return (splited.length < 2);
     }
 }
